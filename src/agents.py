@@ -1,0 +1,1 @@
+# Defines visitor behavior and preferences

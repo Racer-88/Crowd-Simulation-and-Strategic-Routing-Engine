@@ -1,0 +1,1 @@
+# Method 2: Nash Equilibrium distribution
